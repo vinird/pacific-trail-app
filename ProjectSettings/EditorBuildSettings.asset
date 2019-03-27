@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Index.unity
+    guid: 8e5e86cba82518544bab4bd3bb5ac6a7
+  - enabled: 1
+    path: Assets/Scenes/Vini's Playground/GPS-test.unity
+    guid: bc4def1049fbf5b4aba95a50b5a7cd96
+  - enabled: 1
+    path: Assets/Scenes/Vini's Playground/AR.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
     path: Assets/Scenes/Vini's Playground/Mapbox.unity
     guid: 1467f7bda65924743a7f0380dff4b657
   m_configObjects: {}

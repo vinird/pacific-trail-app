@@ -34,8 +34,6 @@ public class RotateCamera : MonoBehaviour
         rotation.y = 0f;
         rotation.w = 0;
 
-        print(rotation);
-        
         transform.Rotate(0f, 0f, Input.gyro.rotationRateUnbiased.z, Space.Self);
     }
     
